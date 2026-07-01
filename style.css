@@ -4,10 +4,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial,sans-serif;
 }
 
 nav{
-    background-color: aqua;
+
     display: flex;
     justify-content: space-between;
     max-width: 90vw;
@@ -15,3 +16,16 @@ nav{
     padding: 20px 0px;
 }
 
+.sign-btn{
+    background-color: red;
+    color: white;
+    padding: 15px 25px;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.sign-btn:hover{
+    filter: brightness(85%);
+}
