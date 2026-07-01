@@ -19,3 +19,13 @@ header .box{
     opacity: 0.5;
     position: absolute;
 }
+
+nav{
+    display: flex;
+    position: relative;
+    max-width: 80vw;
+    background-color: blue;
+    margin: 0px 100px 0px 100px;
+    height: 20px;
+    top: 20px;
+}
