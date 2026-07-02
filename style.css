@@ -19,6 +19,7 @@ header .box{
     background-color: black;
     opacity: 0.5;
     position: absolute;
+    z-index: 1;
 }
 
 nav{
@@ -29,4 +30,8 @@ nav{
     height: 20px;
     background-color: blue;
     top: 20px;
+}
+
+nav img{
+    z-index: 10;
 }
