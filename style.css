@@ -24,9 +24,10 @@ header .box{
 
 nav{
     display: flex;
+    justify-content: space-between;
     position: relative;
     max-width: 80vw;
-    margin: 0px 100px 0px 100px;
+    margin: 0px 150px 0px 100px;
     height: 20px;
     background-color: blue;
     top: 20px;
