@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-image: url(./assets/hero_section_image.jpg);
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+}
