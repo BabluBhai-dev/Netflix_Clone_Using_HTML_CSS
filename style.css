@@ -36,3 +36,8 @@ nav{
 nav img{
     z-index: 10;
 }
+
+.btn{
+    padding: 5px 15px;
+    background-color: rgba(20, 20, 20,0.5);
+}
