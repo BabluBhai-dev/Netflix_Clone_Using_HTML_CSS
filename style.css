@@ -41,4 +41,15 @@ nav img{
     background-color: rgba(20, 20, 20,0.5);
     color: white;
     border: 4px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.btn-sign{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 3px 15px;
+    font-size: larger;
+    font-weight: 500;
 }
