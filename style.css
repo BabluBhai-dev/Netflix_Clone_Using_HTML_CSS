@@ -54,3 +54,16 @@ nav img{
     font-size: larger;
     font-weight: 500;
 }
+
+.content{
+    display: flex;
+    max-width: 40vw;
+    height: 100%;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    z-index: 10;
+    position: relative;
+}
