@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: black;
+    color: white;
+}
+
 header{
     background-image: url(./assets/hero_section_image.jpg);
     height: 80vh;
