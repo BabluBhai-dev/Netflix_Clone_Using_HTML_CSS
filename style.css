@@ -88,3 +88,15 @@ nav img{
     font-size: 15px;
     margin: 0px 0px 10px;
 }
+.search{
+    display: flex;
+    gap: 2px;
+}
+.btn-start{
+    background-color: red;
+    color: white;
+    padding: 24px 50px;
+    border: 4px;
+    text-align: left;
+    font-size: 25px;
+}
