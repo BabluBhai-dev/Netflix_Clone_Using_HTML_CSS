@@ -70,9 +70,16 @@ nav img{
 }
 
 .content >:nth-child(1){
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700px;
     text-align: center;
     margin: 0px 0px 16px;
-    font-family: unset;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.content> :nth-child(2){
+    text-align: center;
+    margin: 0px 0px 10px;
+    font-size: 25px;
 }
