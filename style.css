@@ -150,6 +150,7 @@ nav img{
     border-radius: 8px;
     overflow: visible;
     padding: 15px 10px;
+    transition: transform 0.3s ease,box-shadow ease;
 }
 
 .card img{
@@ -158,6 +159,12 @@ nav img{
     object-fit: cover;
     display: block;
     border-radius: 8px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    z-index: 10;
+    box-shadow: 0px 10px 20px;
 }
 
 .number{
