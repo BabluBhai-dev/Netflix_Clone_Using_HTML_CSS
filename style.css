@@ -137,3 +137,7 @@ nav img{
     scroll-snap-type: x mandatory;
     scrollbar-width: none;
 }
+
+.slider::-webkit-scrollbar{
+    display: none;
+}
