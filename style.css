@@ -141,3 +141,14 @@ nav img{
 .slider::-webkit-scrollbar{
     display: none;
 }
+
+.card{
+    position: relative;
+    flex: 0 0 auto;
+    height: 150px;
+    height: 220px;
+    scroll-snap-align: start;
+    border-radius: 8px;
+    overflow: visible;
+    padding: 15px 10px;
+}
