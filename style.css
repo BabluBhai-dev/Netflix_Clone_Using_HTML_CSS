@@ -135,4 +135,5 @@ nav img{
     gap: 20px;
     overflow-x: none;
     scroll-snap-type: x mandatory;
+    scrollbar-width: none;
 }
