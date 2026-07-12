@@ -116,7 +116,9 @@ nav img{
     height: 350px;
     max-width: 75vw;
     width: 100%;
-   margin: 30px auto;
+   margin-top: 30px;
+   margin-left: 12vw;
+   margin-inline-start: 12vw;
 }
 
 .section-title{
@@ -221,6 +223,12 @@ nav img{
     height: 380px;
     width: 75vw;
     border: 1px solid red;
+}
+
+.questionbox{
+    background-color: gray;
+    width: 70vw;
+    margin: 10px auto;
 }
 
 .faq{
