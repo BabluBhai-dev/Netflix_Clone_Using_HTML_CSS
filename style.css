@@ -183,4 +183,9 @@ nav img{
     border: 1px solid red;
 }
 
-
+.section{
+    display: flex;
+    gap: 10px;
+    height: 300px;
+    width: 70vw;
+}
