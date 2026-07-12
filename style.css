@@ -222,3 +222,13 @@ nav img{
     width: 75vw;
     border: 1px solid red;
 }
+
+.faq{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    font-weight: 400;
+    font-size: 1.5rem;
+    font-family: Helvetica, sans-serif;
+}
