@@ -114,13 +114,13 @@ nav img{
 
 .container{
     height: 350px;
-    max-width: 1020px;
+    max-width: 80vw;
     width: 100%;
    margin: 30px auto;
 }
 
 .section-title{
-    font-size: 20px;
+    font-size: 24px;
     font-family:Helvetica, sans-serif;
     font-weight: bold;
     margin-bottom: 25px;
@@ -173,6 +173,14 @@ nav img{
     color: black;
     -webkit-text-stroke: 2px white;
     font-weight: bold;
+}
+
+.container2{
+    margin: 30px auto;
+    height: 350px;
+    width: 80vw;
+    overflow: hidden;
+    border: 1px solid red;
 }
 
 
