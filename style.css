@@ -177,7 +177,7 @@ nav img{
 
 .container2{
     margin: 30px auto;
-    height: 400px;
+    height: 380px;
     width: 75vw;
     overflow: hidden;
 
@@ -186,21 +186,19 @@ nav img{
 .section{
     display: flex;
     gap: 10px;
-    height: 300px;
-    width: 70vw;
+    height:350px;
+    width: 75vw;
 }
 .card2{
-    border: 1px solid green;
-    height: 318px;
+    height: 325px;
     width: 352px;
-    flex: 10px 10px 10px 10px;
     background: linear-gradient(180deg, #1e1e3f 50%, #220222 100%);
     border-radius: 20px;
     padding: 15px 15px;
-    display: flex;
+    display:flex;
     flex-direction: column;
     justify-content: space-around;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Helvetica, sans-serif;
 }
 
 .card2 h3{
@@ -209,4 +207,10 @@ nav img{
 
 .card2 p{
     color: rgba(255,255, 255,0.2);
+}
+
+.smallimg{
+    position: relative;
+    left: 240px;
+    top: 10px;
 }
