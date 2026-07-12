@@ -206,3 +206,7 @@ nav img{
 .card2 h3{
     font-size: 1.3rem;
 }
+
+.card2 p{
+    color: rgba(255,255, 255,0.2);
+}
