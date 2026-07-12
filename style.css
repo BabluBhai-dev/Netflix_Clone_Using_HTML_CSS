@@ -114,7 +114,7 @@ nav img{
 
 .container{
     height: 350px;
-    max-width: 80vw;
+    max-width: 75vw;
     width: 100%;
    margin: 30px auto;
 }
@@ -177,10 +177,10 @@ nav img{
 
 .container2{
     margin: 30px auto;
-    height: 350px;
-    width: 80vw;
+    height: 400px;
+    width: 75vw;
     overflow: hidden;
-    border: 1px solid red;
+
 }
 
 .section{
@@ -188,4 +188,16 @@ nav img{
     gap: 10px;
     height: 300px;
     width: 70vw;
+}
+.card2{
+    border: 1px solid green;
+    height: 318px;
+    width: 352px;
+    flex: 10px 10px 10px 10px;
+    background: linear-gradient(180deg, #1e1e3f 50%, #220222 100%);
+    border-radius: 20px;
+    padding: 15px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
