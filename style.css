@@ -214,3 +214,11 @@ nav img{
     left: 240px;
     top: 10px;
 }
+.container3{
+    margin-top: 30px;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    height: 380px;
+    width: 75vw;
+    border: 1px solid red;
+}
