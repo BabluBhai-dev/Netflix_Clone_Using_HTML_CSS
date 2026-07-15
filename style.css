@@ -258,3 +258,9 @@ nav img{
     text-align: center;
     margin: 0px 0px 18px;
 }
+
+.content2 .search{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
