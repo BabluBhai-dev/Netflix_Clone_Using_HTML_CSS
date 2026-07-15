@@ -224,7 +224,6 @@ nav img{
     margin-right: 12vw;
     height: 600px;
     width: 75vw;
-    border: 1px solid red;
 }
 
 .questionbox{
@@ -249,8 +248,8 @@ nav img{
 
 .content2{
     width: 80vw;
-    margin: 10vw;
-    border: 1px solid green;
+    margin-left: 10vw;
+    margin-top: 10px;
 }
 
 .content2 p{
@@ -266,10 +265,17 @@ nav img{
 }
 
 #search input {
-    padding: 20px 325px 20px 10px;
+    padding: 20px 350px 20px 10px;
     font-size: 1.2rem;
     background-color: rgba(23, 23, 23, 0.5);
     border: 1px solid gray;
     border-radius: 5px;
     color: white;
+}
+
+#search .btn-start{
+    border-radius: 5px;
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+    padding:6px 35px 6px 20px;
 }
