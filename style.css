@@ -252,3 +252,9 @@ nav img{
     margin: 10vw;
     border: 1px solid green;
 }
+
+.content2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px 0px 18px;
+}
