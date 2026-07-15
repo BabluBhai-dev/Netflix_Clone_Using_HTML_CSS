@@ -246,3 +246,9 @@ nav img{
 .questionbox:hover{
     background-color: #4d4d4d;
 }
+
+.content2{
+    width: 80vw;
+    margin: 10vw;
+    border: 1px solid green;
+}
