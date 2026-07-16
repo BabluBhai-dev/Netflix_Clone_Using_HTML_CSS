@@ -289,29 +289,39 @@ footer {
   width: 75vw;
 }
 
-.call{
-    color: rgba(255, 255, 255, 0.7);
-    margin-bottom: 20px;
+.call {
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 20px;
 }
 
-.call a{
-    color: rgba(255, 255, 255, 0.7);
+.call a {
+  color: rgba(255, 255, 255, 0.7);
 }
 
-.foot-grid{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 10px;
+.foot-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
 }
 
-.foot{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-    width: 100%;
+.foot {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
 }
 
-.foot a{
-    color: rgba(255, 255, 255, 0.7);
-    padding-top: 20px;
+.foot a {
+  color: rgba(255, 255, 255, 0.7);
+  padding-top: 20px;
+}
+
+footer p{
+  color: rgba(255, 255, 255, 0.7);
+  padding-top: 30px;
+}
+
+#para{
+    font-size: 0.8rem;
+    padding-top: 50px;
 }
