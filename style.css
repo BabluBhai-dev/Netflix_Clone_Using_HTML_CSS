@@ -302,3 +302,10 @@ footer {
     grid-template-columns: repeat(4,1fr);
     gap: 10px;
 }
+
+.foot{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
