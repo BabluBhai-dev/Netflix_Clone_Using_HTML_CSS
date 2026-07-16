@@ -325,3 +325,7 @@ footer p{
     font-size: 0.8rem;
     padding-top: 50px;
 }
+
+#para a{
+    color: #448ef4;
+}
