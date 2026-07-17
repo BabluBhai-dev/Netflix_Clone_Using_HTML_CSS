@@ -111,6 +111,13 @@ nav img {
   background-color: rgba(25, 25, 25, 0.5);
 }
 
+.curved-section{
+  position: relative;
+  height: 40px;
+  background: radial-gradient(ellipse at top, #0a0f2c 0%,#000 70%);
+  overflow: hidden;
+}
+
 .container {
   height: 350px;
   max-width: 75vw;
