@@ -350,7 +350,6 @@ footer p {
 }
 
 select{
-  /* background-color: rgba(23, 23, 23, 0.5); */
   background-color:transparent;
   color: white;
   outline: none;
